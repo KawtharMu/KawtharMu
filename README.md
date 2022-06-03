@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **anything related to databases, frontEnd And Java**
 
-- 📫 How to reach me **[Email](mailto:kawtar.aboesmail@gmail.com) Or [LinkedIn](https://www.linkedin.com/in/kawthar-abu-esmail/)**
+- 📫 How to reach me: **[Email](mailto:kawtar.aboesmail@gmail.com) Or [LinkedIn](https://www.linkedin.com/in/kawthar-abu-esmail/)**
 
-- ⚡ Fun fact **I LOVE GAMING!**
+- ⚡ Fun fact: **I LOVE GAMING! 🎮🕹️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
