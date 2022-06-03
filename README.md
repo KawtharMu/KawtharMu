@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawtharmu&label=Profile%20views&color=0e75b6&style=flat" alt="kawtharmu" /> </p>
 
-- 🔭 I’m currently working on **Android App for leading network of senior living facilities in Israel**
+- 🔭 I’m currently working on **an android app for a leading network of senior living facilities in Israel**
 
 - 🌱 I’m currently learning and practicing to make **android apps with Android studio**
 
