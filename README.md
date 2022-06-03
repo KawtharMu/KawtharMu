@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawtharmu&label=Profile%20views&color=0e75b6&style=flat" alt="kawtharmu" /> </p>
 
-- 🔭 I’m currently working on **an android app for a leading network of senior living facilities in Israel**
+- 🔭 currently working on **an android app for a leading network of senior living facilities in Israel**
 
-- 🌱 I’m currently learning and practicing building **Android apps**
-
-- 👯 I’m looking to collaborate on **Java, anything related to databases and frontEnd**
+<!-- - 🌱 I’m currently learning and practicing building **Android apps** -->
+<!-- 
+- 👯 I’m looking to collaborate on **Java, anything related to databases and frontEnd** -->
 
 - 💬 Ask me about **anything related to databases, frontEnd And Java**
 
-- 📫 How to reach me: **[Email](mailto:kawtar.aboesmail@gmail.com) Or [LinkedIn](https://www.linkedin.com/in/kawthar-abu-esmail/)**
+- 📫 reach me on: **[Email](mailto:kawtar.aboesmail@gmail.com) Or [LinkedIn](https://www.linkedin.com/in/kawthar-abu-esmail/)**
 
 - ⚡ Fun fact: **I LOVE GAMING! 🎮🕹️**
 
