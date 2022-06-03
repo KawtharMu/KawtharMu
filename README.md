@@ -1,4 +1,4 @@
-![MasterHead](https://www.business2community.com/wp-content/uploads/2015/02/Floating-head-for-GIF-1.gif-900x369.gif)
+ ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Welcome to my playground 👋 👩‍💻, I'm Kawthar</h1>
 <h3 align="center">A passionate student of Information systems development from Haifa</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
