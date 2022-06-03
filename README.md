@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an android app for a leading network of senior living facilities in Israel**
 
-- 🌱 I’m currently learning and practicing to make **android apps with Android studio**
+- 🌱 I’m currently learning and practicing building **Android apps**
 
 - 👯 I’m looking to collaborate on **Java, anything related to databases and frontEnd**
 
